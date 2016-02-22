@@ -82,10 +82,10 @@ Starting with a simple formula to fill in Magic Squares based on a 4 x 4 square 
           <td class="tg-yw4l">&lt;&lt; 34 &gt;&gt;</td>
         </tr>
         <tr>
-          <td class="tg-i6eq">13</td>
-          <td class="tg-b44r">3</td>
-          <td class="tg-b44r">2</td>
-          <td class="tg-i6eq">16</td>
+          <td class="tg-qvf1">13</td>
+          <td class="tg-0we2">3</td>
+          <td class="tg-69zb">2</td>
+          <td class="tg-606q">16</td>
           <td class="tg-yw4l">&gt;&gt; 34 &lt;&lt;</td>
         </tr>
         <tr>
