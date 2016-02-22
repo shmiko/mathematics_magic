@@ -67,39 +67,6 @@ Assume money is $48
           <th class="tg-yw4l" colspan="5">Magic Square given a Total - 34</th>
         </tr>
         <tr>
-          <th class="tg-yw4l">8</th>
-          <th class="tg-yw4l">11</th>
-          <th class="tg-yw4l">14</th>
-          <th class="tg-yw4l">1</th>
-        </tr>
-        <tr>
-          <td class="tg-yw4l">13</td>
-          <td class="tg-yw4l">2</td>
-          <td class="tg-yw4l">7</td>
-          <td class="tg-yw4l">12</td>
-        </tr>
-        <tr>
-          <td class="tg-yw4l">3</td>
-          <td class="tg-yw4l">16</td>
-          <td class="tg-yw4l">9</td>
-          <td class="tg-yw4l">6</td>
-        </tr>
-        <tr>
-          <td class="tg-yw4l">10</td>
-          <td class="tg-yw4l">5</td>
-          <td class="tg-yw4l">4</td>
-          <td class="tg-yw4l">15</td>
-        </tr>
-
-      </table>
-    </th>
-    <th></th>
-    <th>
-      <table class="tg">
-        <tr>
-          <th class="tg-yw4l" colspan="5">Formula Starting</th>
-        </tr>
-        <tr>
           <th class="tg-yw4l">1</th>
           <th class="tg-yw4l">15</th>
           <th class="tg-yw4l">14</th>
@@ -123,6 +90,39 @@ Assume money is $48
           <td class="tg-yw4l">2</td>
           <td class="tg-yw4l">16</td>
         </tr>
+
+      </table>
+    </th>
+    <th></th>
+    <th>
+      <table class="tg">
+        <tr>
+          <th class="tg-yw4l" colspan="5">Magic Square given a Total - 58</th>
+        </tr>
+        <tr>
+          <th class="tg-yw4l">25</th>
+          <th class="tg-yw4l">39</th>
+          <th class="tg-yw4l">38</th>
+          <th class="tg-yw4l">28</th>
+        </tr>
+        <tr>
+          <td class="tg-yw4l">36</td>
+          <td class="tg-yw4l">30</td>
+          <td class="tg-yw4l">29</td>
+          <td class="tg-yw4l">33</td>
+        </tr>
+        <tr>
+          <td class="tg-yw4l">32</td>
+          <td class="tg-yw4l">34</td>
+          <td class="tg-yw4l">35</td>
+          <td class="tg-yw4l">29</td>
+        </tr>
+        <tr>
+          <td class="tg-yw4l">37</td>
+          <td class="tg-yw4l">27</td>
+          <td class="tg-yw4l">26</td>
+          <td class="tg-yw4l">40</td>
+        </tr>
         
       </table>
     </th>
@@ -134,10 +134,31 @@ Assume money is $48
           <th class="tg-yw4l" colspan="5">Filling in the diagonal cells only going right to left</th>
         </tr>
         <tr>
+          <th class="tg-yw4l" colspan="5">on the top and bottom rows and right to left for the middle rows.</th>
+        </tr>
+        <tr>
           <th class="tg-yw4l" colspan="5">When done go back to fill the blank cells</th>
         </tr>
         <tr>
-          <th class="tg-yw4l" colspan="5">with the missing numbers up to 16 going left to righ.</th>
+          <th class="tg-yw4l" colspan="5">with the missing numbers up to 16 going left to right.</th>
+        </tr>
+        <tr>
+          <th class="tg-yw4l" colspan="5">on the bottom and top rows and right to left for the middle rows.</th>
+        </tr>
+        <tr>
+          <th class="tg-yw4l" colspan="5">All columns and rows with sum to total given.</th>
+        </tr>
+        <tr>
+          <th class="tg-yw4l" colspan="5">Both diagonal will sum to the total as well.</th>
+        </tr>
+        <tr>
+          <th class="tg-yw4l" colspan="5">The top 3 quads will also as will the bottom 3 quads.</th>
+        </tr>
+        <tr>
+          <th class="tg-yw4l" colspan="5">And the center quad will also sum to the total.</th>
+        </tr>
+        <tr>
+          <th class="tg-yw4l" colspan="5">As will the 4 corners sum to the total.</th>
         </tr>
       </th>
   </tr>
