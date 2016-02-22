@@ -10,9 +10,17 @@ tags: [ 'tutorial maths' ]
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 20px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 20px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg .tg-2gbq{background-color:#cbcefb;color:#986536;vertical-align:top}
+.tg .tg-69zb{background-color:#cbcefb;color:#3531ff;vertical-align:top}
+.tg .tg-qvf1{background-color:#ffccc9;color:#009901;vertical-align:top}
+.tg .tg-q47l{background-color:#ffccc9;color:#fe0000;vertical-align:top}
+.tg .tg-hw0o{background-color:#cbcefb;color:#fe0000;vertical-align:top}
+.tg .tg-9tub{background-color:#ffccc9;color:#986536;vertical-align:top}
 .tg .tg-yw4l{vertical-align:top}
+.tg .tg-0we2{background-color:#cbcefb;color:#009901;vertical-align:top}
+.tg .tg-606q{background-color:#ffccc9;color:#3531ff;vertical-align:top}
 </style>
 
 I'm going to try my best to explain some maths tricks starting with some pretty simple ideas for which you can try yourself on firends and family. These are not new nor created by me but are centuries old trick.  
@@ -64,128 +72,99 @@ Assume money is $48
     <th>
       <table class="tg">
         <tr>
-          <th class="tg-yw4l" colspan="5">Magic Square given a Total - 34</th>
+          <th class="tg-yw4l" colspan="5">Magic Square given a Total of 34</th>
         </tr>
         <tr>
-          <th class="tg-yw4l">1</th>
-          <th class="tg-yw4l">14</th>
-          <th class="tg-yw4l">15</th>
-          <th class="tg-yw4l">4</th>
-          <th class="tg-yw4l">34</th>
+          <th class="tg-q47l">1</th>
+          <th class="tg-hw0o">15</th>
+          <th class="tg-2gbq">14</th>
+          <th class="tg-9tub">4</th>
+          <th class="tg-yw4l">&gt;&gt; 34 &lt;&lt;</th>
         </tr>
         <tr>
-          <td class="tg-yw4l">9</td>
-          <td class="tg-yw4l">7</td>
-          <td class="tg-yw4l">6</td>
-          <td class="tg-yw4l">12</td>
-          <th class="tg-yw4l">34</th>
+          <td class="tg-hw0o">12</td>
+          <td class="tg-q47l">6</td>
+          <td class="tg-9tub">7</td>
+          <td class="tg-2gbq">9</td>
+          <td class="tg-yw4l">&lt;&lt; 34 &gt;&gt;</td>
         </tr>
         <tr>
-          <td class="tg-yw4l">5</td>
-          <td class="tg-yw4l">11</td>
-          <td class="tg-yw4l">10</td>
-          <td class="tg-yw4l">8</td>
-          <th class="tg-yw4l">34</th>
+          <td class="tg-0we2">8</td>
+          <td class="tg-qvf1">10</td>
+          <td class="tg-606q">11</td>
+          <td class="tg-69zb">5</td>
+          <td class="tg-yw4l">&lt;&lt; 34 &gt;&gt;</td>
         </tr>
         <tr>
-          <td class="tg-yw4l">13</td>
-          <td class="tg-yw4l">3</td>
-          <td class="tg-yw4l">2</td>
-          <td class="tg-yw4l">16</td>
-          <th class="tg-yw4l">34</th>
+          <td class="tg-i6eq">13</td>
+          <td class="tg-b44r">3</td>
+          <td class="tg-b44r">2</td>
+          <td class="tg-i6eq">16</td>
+          <td class="tg-yw4l">&gt;&gt; 34 &lt;&lt;</td>
+        </tr>
+         <tr>
+          <td class="tg-qvf1">13</td>
+          <td class="tg-0we2">3</td>
+          <td class="tg-69zb">2</td>
+          <td class="tg-606q">16</td>
+          <td class="tg-yw4l">&gt;&gt; 34 &lt;&lt;</td>
         </tr>
         <tr>
-          <th class="tg-yw4l">34</th>
-          <th class="tg-yw4l">34</th>
-          <th class="tg-yw4l">34</th>
-          <th class="tg-yw4l">34</th>
-          <th class="tg-yw4l">34</th>
+          <td class="tg-yw4l">34</td>
+          <td class="tg-yw4l">34</td>
+          <td class="tg-yw4l">34</td>
+          <td class="tg-yw4l">34</td>
+          <td class="tg-yw4l">34</td>
         </tr>
-        
       </table>
     </th>
     <th></th>
     <th>
       <table class="tg">
         <tr>
-          <th class="tg-yw4l" colspan="5">Magic Square given a Total - 130</th>
+          <th class="tg-yw4l" colspan="5">Magic Square given a total of 130</th>
         </tr>
         <tr>
-          <th class="tg-yw4l">25</th>
-          <th class="tg-yw4l">38</th>
-          <th class="tg-yw4l">37</th>
-          <th class="tg-yw4l">28</th>
-          <th class="tg-yw4l">130</th>
+          <th class="tg-q47l">25</th>
+          <th class="tg-hw0o">39</th>
+          <th class="tg-2gbq">38</th>
+          <th class="tg-9tub">28</th>
+          <th class="tg-yw4l">&gt;&gt; 130 &lt;&lt;</th>
         </tr>
         <tr>
-          <td class="tg-yw4l">33</td>
-          <td class="tg-yw4l">31</td>
-          <td class="tg-yw4l">30</td>
-          <td class="tg-yw4l">36</td>
-          <th class="tg-yw4l">130</th>
+          <td class="tg-hw0o">36</td>
+          <td class="tg-q47l">30</td>
+          <td class="tg-9tub">31</td>
+          <td class="tg-2gbq">33</td>
+          <td class="tg-yw4l">&lt;&lt; 130 &gt;&gt;</td>
         </tr>
         <tr>
-          <td class="tg-yw4l">29</td>
-          <td class="tg-yw4l">35</td>
-          <td class="tg-yw4l">34</td>
-          <td class="tg-yw4l">32</td>
-          <th class="tg-yw4l">130</th>
+          <td class="tg-0we2">32</td>
+          <td class="tg-qvf1">34</td>
+          <td class="tg-606q">35</td>
+          <td class="tg-69zb">29</td>
+          <td class="tg-yw4l">&lt;&lt; 130 &gt;&gt;</td>
         </tr>
         <tr>
-          <td class="tg-yw4l">37</td>
-          <td class="tg-yw4l">27</td>
-          <td class="tg-yw4l">26</td>
-          <td class="tg-yw4l">40</td>
-          <th class="tg-yw4l">130</th>
+          <td class="tg-qvf1">37</td>
+          <td class="tg-0we2">27</td>
+          <td class="tg-69zb">26</td>
+          <td class="tg-606q">40</td>
+          <td class="tg-yw4l">&gt;&gt; 130 &lt;&lt;</td>
         </tr>
         <tr>
           <td class="tg-yw4l">130</td>
           <td class="tg-yw4l">130</td>
           <td class="tg-yw4l">130</td>
           <td class="tg-yw4l">130</td>
-          <th class="tg-yw4l">130</th>
+          <td class="tg-yw4l">130</td>
         </tr>
       </table>
     </th>
-    <!-- <th>
-      <tr>
-          <th class="tg-yw4l" colspan="5">Start at top left with 1</th>
-        </tr>
-        <tr>
-          <th class="tg-yw4l" colspan="5">Filling in the diagonal cells only going right to left</th>
-        </tr>
-        <tr>
-          <th class="tg-yw4l" colspan="5">on the top and bottom rows and right to left for the middle rows.</th>
-        </tr>
-        <tr>
-          <th class="tg-yw4l" colspan="5">When done go back to fill the blank cells</th>
-        </tr>
-        <tr>
-          <th class="tg-yw4l" colspan="5">with the missing numbers up to 16 going left to right.</th>
-        </tr>
-        <tr>
-          <th class="tg-yw4l" colspan="5">on the bottom and top rows and right to left for the middle rows.</th>
-        </tr>
-        <tr>
-          <th class="tg-yw4l" colspan="5">All columns and rows with sum to total given.</th>
-        </tr>
-        <tr>
-          <th class="tg-yw4l" colspan="5">Both diagonal will sum to the total as well.</th>
-        </tr>
-        <tr>
-          <th class="tg-yw4l" colspan="5">The top 3 quads will also as will the bottom 3 quads.</th>
-        </tr>
-        <tr>
-          <th class="tg-yw4l" colspan="5">And the center quad will also sum to the total.</th>
-        </tr>
-        <tr>
-          <th class="tg-yw4l" colspan="5">As will the 4 corners sum to the total.</th>
-        </tr>
-      </th> -->
   </tr>
 </table>
 Instructions
-Start at top left with 1, or Total - 34. Eg 130 total would require starting at 25 instead adding 24 to each cell.
+Start at top left with 1, or Total - 34. Eg 130 total would require starting at 25 instead adding 24 to each cell which is the diffrence from 130 - 34 / 4 for each cell.
 Filling in the diagonal cells only going right to left on the top and bottom rows and right to left for the middle rows.
 When done go back to fill the blank cells with the missing numbers up to 16 going left to right on the bottom and top rows and right to left for the middle rows.
 All columns and rows with sum to total given.
@@ -193,6 +172,7 @@ Both diagonal will sum to the total as well.
 The top 3 quads will also as will the bottom 3 quads.
 And the center quad will also sum to the total.
 As will the 4 corners sum to the total.
+CAVEAT: the total must be a multiple of 4, if not it cannot be done.
 
   **B** Starting with a simple formula to fill in Magic Squares based on a 4 x 4 square
 |   |   |   |   |        Construct      |   |   |   |   |
