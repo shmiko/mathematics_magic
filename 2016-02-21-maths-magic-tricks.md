@@ -157,15 +157,15 @@ Assume money is $48
   </tr>
 </table>
 **Instructions**    
-Start at top left with 1, or Total - 34. Eg 130 total would require starting at 25 instead adding 24 to each cell which is the diffrence from 130 - 34 / 4 for each cell.
-Filling in the diagonal cells only going right to left on the top and bottom rows and right to left for the middle rows.
-When done go back to fill the blank cells with the missing numbers up to 16 going left to right on the bottom and top rows and right to left for the middle rows.
-All columns and rows with sum to total given.
-Both diagonal will sum to the total as well.
-The top 3 quads will also as will the bottom 3 quads.
-And the center quad will also sum to the total.
-As will the 4 corners sum to the total.
-**CAVEAT:** the total must be a multiple of 4, if not it cannot be done.
+Start at top left with 1, or Total - 34. Eg 130 total would require starting at 25 instead adding 24 to each cell which is the diffrence from 130 - 34 / 4 for each cell.  
+Filling in the diagonal cells only going right to left on the top and bottom rows and right to left for the middle rows.  
+When done go back to fill the blank cells with the missing numbers up to 16 going left to right on the bottom and top rows and right to left for the middle rows.  
+All columns and rows with sum to total given.  
+Both diagonal will sum to the total as well.  
+The top 3 quads will also as will the bottom 3 quads.  
+And the center quad will also sum to the total.  
+As will the 4 corners sum to the total.  
+**CAVEAT:** The total must be a multiple of 4, if not it cannot be done.
 
   **B** Starting with a simple formula to fill in Magic Squares based on a 4 x 4 square
 |   |   |   |   |        Construct      |   |   |   |   |
