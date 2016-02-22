@@ -157,6 +157,7 @@ Starting with a simple formula to fill in Magic Squares based on a 4 x 4 square 
 ---  
 
 
+
 **Medium Difficulty**  
 Now lets see the formula to fill in Magic Squares based on a 4 x 4 square given someones birthdate.
 <table>
