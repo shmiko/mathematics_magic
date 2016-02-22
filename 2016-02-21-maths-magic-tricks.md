@@ -64,7 +64,7 @@ Assume money is $48
     <th>
       <table class="tg">
         <tr>
-          <th class="tg-yw4l">Magic Square given a Total - 34</th>
+          <th class="tg-yw4l" colspan="5">Magic Square given a Total - 34</th>
         </tr>
         <tr>
           <th class="tg-yw4l">8</th>
@@ -96,7 +96,7 @@ Assume money is $48
     <th>
       <table class="tg">
         <tr>
-          <th class="tg-yw4l">Formula Starting</th>
+          <th class="tg-yw4l" colspan="5">Formula Starting</th>
         </tr>
         <tr>
           <th class="tg-yw4l">1</th>
@@ -123,16 +123,16 @@ Assume money is $48
           <td class="tg-yw4l">16</td>
         </tr>
         <tr>
-          <th class="tg-yw4l">Start at top left with 1</th>
+          <th class="tg-yw4l" colspan="5">Start at top left with 1</th>
         </tr>
         <tr>
-          <th class="tg-yw4l">Filling in the diagonal cells only going right to left</th>
+          <th class="tg-yw4l" colspan="5">Filling in the diagonal cells only going right to left</th>
         </tr>
         <tr>
-          <th class="tg-yw4l">When done go back to fill the blank cells</th>
+          <th class="tg-yw4l" colspan="5">When done go back to fill the blank cells</th>
         </tr>
         <tr>
-          <th class="tg-yw4l">with the missing numbers up to 16 going left to righ.</th>
+          <th class="tg-yw4l" colspan="5">with the missing numbers up to 16 going left to righ.</th>
         </tr>
       </table>
     </th>
