@@ -71,26 +71,37 @@ Assume money is $48
           <th class="tg-yw4l">14</th>
           <th class="tg-yw4l">15</th>
           <th class="tg-yw4l">4</th>
+          <th class="tg-yw4l">34</th>
         </tr>
         <tr>
           <td class="tg-yw4l">9</td>
           <td class="tg-yw4l">7</td>
           <td class="tg-yw4l">6</td>
           <td class="tg-yw4l">12</td>
+          <th class="tg-yw4l">34</th>
         </tr>
         <tr>
           <td class="tg-yw4l">5</td>
           <td class="tg-yw4l">11</td>
           <td class="tg-yw4l">10</td>
           <td class="tg-yw4l">8</td>
+          <th class="tg-yw4l">34</th>
         </tr>
         <tr>
           <td class="tg-yw4l">13</td>
           <td class="tg-yw4l">3</td>
           <td class="tg-yw4l">2</td>
           <td class="tg-yw4l">16</td>
+          <th class="tg-yw4l">34</th>
         </tr>
-
+        <tr>
+          <th class="tg-yw4l">34</th>
+          <th class="tg-yw4l">34</th>
+          <th class="tg-yw4l">34</th>
+          <th class="tg-yw4l">34</th>
+          <th class="tg-yw4l"></th>
+        </tr>
+        
       </table>
     </th>
     <th></th>
@@ -104,26 +115,36 @@ Assume money is $48
           <th class="tg-yw4l">39</th>
           <th class="tg-yw4l">38</th>
           <th class="tg-yw4l">28</th>
+          <th class="tg-yw4l">58</th>
         </tr>
         <tr>
           <td class="tg-yw4l">36</td>
           <td class="tg-yw4l">30</td>
           <td class="tg-yw4l">29</td>
           <td class="tg-yw4l">33</td>
+          <th class="tg-yw4l">58</th>
         </tr>
         <tr>
           <td class="tg-yw4l">32</td>
           <td class="tg-yw4l">34</td>
           <td class="tg-yw4l">35</td>
           <td class="tg-yw4l">29</td>
+          <th class="tg-yw4l">58</th>
         </tr>
         <tr>
           <td class="tg-yw4l">37</td>
           <td class="tg-yw4l">27</td>
           <td class="tg-yw4l">26</td>
           <td class="tg-yw4l">40</td>
+          <th class="tg-yw4l">58</th>
         </tr>
-        
+        <tr>
+          <td class="tg-yw4l">58</td>
+          <td class="tg-yw4l">58</td>
+          <td class="tg-yw4l">58</td>
+          <td class="tg-yw4l">58</td>
+          <th class="tg-yw4l"></th>
+        </tr>
       </table>
     </th>
     <th>
