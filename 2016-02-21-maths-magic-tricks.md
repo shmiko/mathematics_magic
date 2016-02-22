@@ -46,6 +46,7 @@ The our answer is **$23**.
 Another quick EXAMPLE
 Assume money is $48
 48 + 5 = 53 X 5 = 265 X 2 = 530 + 3 = 533 + 10 = 543, remove 3 = 54 - 6 = **48**!
+---
 
 **2.** **Magic Squares**   
 Starting with a simple formula to fill in Magic Squares based on a 4 x 4 square given a total.
@@ -357,7 +358,7 @@ Lets try the formula to fill in Magic Squares based on a 4 x 4 square given 3 ra
  - And the center quad will also sum to the total.  
  - As will the 4 corners sum to the total.  
 **CAVEAT:** The total must be a multiple of 4, if not it cannot be done.
-
+---
 
 **3.** How to guess the **day of week** for any given date.
 
@@ -374,8 +375,8 @@ Monday  Tuesday Wednesday Thursday  Friday  Saturday  Sunday
 Jan   Feb   Mar Apr May Jun Jul Aug Sep Oct Nov Dec
 6(-1) 2(-1) 2   5   0   3   5   1   4   6   2   4
 
-EXAMPLE
-
+EXAMPLE To Follow Soon
+---
 
 **4.**  Easy **Square Roots** for any 2 digit Numbers x^2
 EXAMPLE
@@ -395,6 +396,8 @@ Add 3^2 = 9
 So 3600 + 9 = **3969**
 
 5. **Vedic** Maths - To Follow
+---
+
 
 6. **Fibonacci** Fun Facts and **The Golden Ratio**
 
@@ -422,4 +425,3 @@ Another way to look at the same sequence
 
 This is showing the **Golden Ration** known as 1.618033
 
-**5.** To Follow soon.
