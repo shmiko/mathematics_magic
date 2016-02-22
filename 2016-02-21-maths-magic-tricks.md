@@ -8,6 +8,13 @@ tags: [ 'tutorial maths' ]
 
 ## Mathematics Tricks
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg .tg-yw4l{vertical-align:top}
+</style>
+
 I'm going to try my best to explain some maths tricks starting with some pretty simple ideas for which you can try yourself on firends and family. These are not new nor created by me but are centuries old trick.  
 
 1. How to guess **how much money** someone has in their wallet/purse or pocket.
@@ -52,11 +59,88 @@ Assume money is $48
 2. **Magic Squares** To Follow
   **A** Starting with a simple formula to fill in Magic Squares based on a 4 x 4 square.
 
-|   |   |   |   |        Construct      |   |   |   |   |
-|---|---|---|---|                       |---|---|---|---|
-|   |   |   |   |                       |   |   |   |   |
-|   |   |   |   |                       |   |   |   |   |
-|   |   |   |   |                       |   |   |   |   |
+<table>
+  <tr>
+    <th>
+      <table class="tg">
+        <tr>
+          <th class="tg-yw4l">Magic Square given a Total - 34</th>
+        </tr>
+        <tr>
+          <th class="tg-yw4l">8</th>
+          <th class="tg-yw4l">11</th>
+          <th class="tg-yw4l">14</th>
+          <th class="tg-yw4l">1</th>
+        </tr>
+        <tr>
+          <td class="tg-yw4l">13</td>
+          <td class="tg-yw4l">2</td>
+          <td class="tg-yw4l">7</td>
+          <td class="tg-yw4l">12</td>
+        </tr>
+        <tr>
+          <td class="tg-yw4l">3</td>
+          <td class="tg-yw4l">16</td>
+          <td class="tg-yw4l">9</td>
+          <td class="tg-yw4l">6</td>
+        </tr>
+        <tr>
+          <td class="tg-yw4l">10</td>
+          <td class="tg-yw4l">5</td>
+          <td class="tg-yw4l">4</td>
+          <td class="tg-yw4l">15</td>
+        </tr>
+      </table>
+    </th>
+    <th></th>
+    <th>
+      <table class="tg">
+        <tr>
+          <th class="tg-yw4l">Formula Starting</th>
+        </tr>
+        <tr>
+          <th class="tg-yw4l">1</th>
+          <th class="tg-yw4l">15</th>
+          <th class="tg-yw4l">14</th>
+          <th class="tg-yw4l">4</th>
+        </tr>
+        <tr>
+          <td class="tg-yw4l">12</td>
+          <td class="tg-yw4l">6</td>
+          <td class="tg-yw4l">7</td>
+          <td class="tg-yw4l">9</td>
+        </tr>
+        <tr>
+          <td class="tg-yw4l">8</td>
+          <td class="tg-yw4l">10</td>
+          <td class="tg-yw4l">11</td>
+          <td class="tg-yw4l">5</td>
+        </tr>
+        <tr>
+          <td class="tg-yw4l">13</td>
+          <td class="tg-yw4l">3</td>
+          <td class="tg-yw4l">2</td>
+          <td class="tg-yw4l">16</td>
+        </tr>
+        <tr>
+          <th class="tg-yw4l">Start at top left with 1</th>
+        </tr>
+        <tr>
+          <th class="tg-yw4l">Filling in the diagonal cells only going right to left</th>
+        </tr>
+        <tr>
+          <th class="tg-yw4l">When done go back to fill the blank cells</th>
+        </tr>
+        <tr>
+          <th class="tg-yw4l">with the missing numbers up to 16 going left to righ.</th>
+        </tr>
+      </table>
+    </th>
+  </tr>
+</table>
+
+
+
 
 
   **B** Starting with a simple formula to fill in Magic Squares based on a 4 x 4 square
