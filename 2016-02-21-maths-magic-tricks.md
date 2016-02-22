@@ -359,7 +359,8 @@ Lets try the formula to fill in Magic Squares based on a 4 x 4 square given 3 ra
  - The top 3 quads will also as will the bottom 3 quads.  
  - And the center quad will also sum to the total.  
  - As will the 4 corners sum to the total.  
-**CAVEAT:** The total must be a multiple of 4, if not it cannot be done.
+**CAVEAT:** The total must be a multiple of 4, if not it cannot be done.  
+
 ---  
 
 **3.** How to guess the **day of week** for any given date.
@@ -402,12 +403,12 @@ So 3600 + 9 = **3969**
 ---  
 
 
-5. **Vedic** Maths - To Follow  
+**5.** **Vedic** Maths - To Follow  
 
 ---  
 
 
-6. **Fibonacci** Fun Facts and **The Golden Ratio**
+**6.** **Fibonacci** Fun Facts and **The Golden Ratio**
 
 Fibonacci numbers are those where the following number in a sequence is added to the previous number to get the next number usually read using the following mathematical formula.
 Fn = Fn-1 + Fn-2
