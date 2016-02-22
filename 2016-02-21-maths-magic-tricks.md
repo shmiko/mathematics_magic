@@ -45,7 +45,8 @@ The our answer is **$23**.
 
 Another quick EXAMPLE
 Assume money is $48
-48 + 5 = 53 X 5 = 265 X 2 = 530 + 3 = 533 + 10 = 543, remove 3 = 54 - 6 = **48**!
+48 + 5 = 53 X 5 = 265 X 2 = 530 + 3 = 533 + 10 = 543, remove 3 = 54 - 6 = **48**!  
+
 ---  
 
 
@@ -376,7 +377,8 @@ Monday  Tuesday Wednesday Thursday  Friday  Saturday  Sunday
 Jan   Feb   Mar Apr May Jun Jul Aug Sep Oct Nov Dec
 6(-1) 2(-1) 2   5   0   3   5   1   4   6   2   4
 
-EXAMPLE To Follow Soon
+EXAMPLE To Follow Soon  
+
 ---  
 
 
@@ -395,11 +397,13 @@ Round down to 60 meaning a count of 3
 So 63 - 3 = 60 X 63 + 3 = 66
 Read as 60 X 66 = 3960
 Add 3^2 = 9
-So 3600 + 9 = **3969**
+So 3600 + 9 = **3969**  
+
 ---  
 
 
-5. **Vedic** Maths - To Follow
+5. **Vedic** Maths - To Follow  
+
 ---  
 
 
