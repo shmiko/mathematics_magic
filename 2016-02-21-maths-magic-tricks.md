@@ -112,29 +112,29 @@ Assume money is $48
         </tr>
         <tr>
           <th class="tg-yw4l">25</th>
-          <th class="tg-yw4l">39</th>
           <th class="tg-yw4l">38</th>
+          <th class="tg-yw4l">39</th>
           <th class="tg-yw4l">28</th>
           <th class="tg-yw4l">58</th>
         </tr>
         <tr>
-          <td class="tg-yw4l">36</td>
-          <td class="tg-yw4l">30</td>
-          <td class="tg-yw4l">29</td>
           <td class="tg-yw4l">33</td>
+          <td class="tg-yw4l">31</td>
+          <td class="tg-yw4l">30</td>
+          <td class="tg-yw4l">36</td>
           <th class="tg-yw4l">58</th>
         </tr>
         <tr>
-          <td class="tg-yw4l">32</td>
-          <td class="tg-yw4l">34</td>
-          <td class="tg-yw4l">35</td>
           <td class="tg-yw4l">29</td>
+          <td class="tg-yw4l">35</td>
+          <td class="tg-yw4l">34</td>
+          <td class="tg-yw4l">32</td>
           <th class="tg-yw4l">58</th>
         </tr>
         <tr>
           <td class="tg-yw4l">37</td>
-          <td class="tg-yw4l">27</td>
-          <td class="tg-yw4l">26</td>
+          <td class="tg-yw4l">38</td>
+          <td class="tg-yw4l">39</td>
           <td class="tg-yw4l">40</td>
           <th class="tg-yw4l">58</th>
         </tr>
@@ -185,7 +185,7 @@ Assume money is $48
   </tr>
 </table>
 Instructions
-Start at top left with 1, or Total - 34. Eg 58 total would require starting at 25 instead adding 24 to each cell.
+Start at top left with 1, or Total - 34. Eg 130 total would require starting at 25 instead adding 24 to each cell.
 Filling in the diagonal cells only going right to left on the top and bottom rows and right to left for the middle rows.
 When done go back to fill the blank cells with the missing numbers up to 16 going left to right on the bottom and top rows and right to left for the middle rows.
 All columns and rows with sum to total given.
