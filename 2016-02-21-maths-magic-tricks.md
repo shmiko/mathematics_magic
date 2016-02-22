@@ -108,42 +108,42 @@ Assume money is $48
     <th>
       <table class="tg">
         <tr>
-          <th class="tg-yw4l" colspan="5">Magic Square given a Total - 58</th>
+          <th class="tg-yw4l" colspan="5">Magic Square given a Total - 130</th>
         </tr>
         <tr>
           <th class="tg-yw4l">25</th>
           <th class="tg-yw4l">38</th>
-          <th class="tg-yw4l">39</th>
+          <th class="tg-yw4l">37</th>
           <th class="tg-yw4l">28</th>
-          <th class="tg-yw4l">58</th>
+          <th class="tg-yw4l">130</th>
         </tr>
         <tr>
           <td class="tg-yw4l">33</td>
           <td class="tg-yw4l">31</td>
           <td class="tg-yw4l">30</td>
           <td class="tg-yw4l">36</td>
-          <th class="tg-yw4l">58</th>
+          <th class="tg-yw4l">130</th>
         </tr>
         <tr>
           <td class="tg-yw4l">29</td>
           <td class="tg-yw4l">35</td>
           <td class="tg-yw4l">34</td>
           <td class="tg-yw4l">32</td>
-          <th class="tg-yw4l">58</th>
+          <th class="tg-yw4l">130</th>
         </tr>
         <tr>
           <td class="tg-yw4l">37</td>
-          <td class="tg-yw4l">38</td>
-          <td class="tg-yw4l">39</td>
+          <td class="tg-yw4l">27</td>
+          <td class="tg-yw4l">26</td>
           <td class="tg-yw4l">40</td>
-          <th class="tg-yw4l">58</th>
+          <th class="tg-yw4l">130</th>
         </tr>
         <tr>
-          <td class="tg-yw4l">58</td>
-          <td class="tg-yw4l">58</td>
-          <td class="tg-yw4l">58</td>
-          <td class="tg-yw4l">58</td>
-          <th class="tg-yw4l">58</th>
+          <td class="tg-yw4l">130</td>
+          <td class="tg-yw4l">130</td>
+          <td class="tg-yw4l">130</td>
+          <td class="tg-yw4l">130</td>
+          <th class="tg-yw4l">130</th>
         </tr>
       </table>
     </th>
