@@ -255,7 +255,7 @@ Now lets see the formula to fill in Magic Squares based on a 4 x 4 square given 
     <th>
       <table class="tg">
         <tr>
-          <th class="tg-yw4l" colspan="5">Birthdate of 03/09/1970 using Formula 1</th>
+          <th class="tg-yw4l" colspan="5">Birthdate of 03/09/1970 using Formula 2</th>
         </tr>
         <tr>
           <th class="tg-q47l">A</th>
@@ -286,10 +286,10 @@ Now lets see the formula to fill in Magic Squares based on a 4 x 4 square given 
           <td class="tg-yw4l">&lt;&lt; 101 &gt;&gt;</td>
         </tr>
         <tr>
-          <td class="tg-i6eq">8</td>
-          <td class="tg-b44r">8</td>
-          <td class="tg-b44r">65</td>
-          <td class="tg-i6eq">20</td>
+          <td class="tg-qvf1">8</td>
+          <td class="tg-0we2">8</td>
+          <td class="tg-69zb">65</td>
+          <td class="tg-606q">20</td>
           <td class="tg-yw4l">&gt;&gt; 101 &lt;&lt;</td>
         </tr>
         <tr>
@@ -377,10 +377,10 @@ Now lets see the formula to fill in Magic Squares based on a 4 x 4 square given 
           <td class="tg-yw4l">&lt;&lt; 101 &gt;&gt;</td>
         </tr>
         <tr>
-          <td class="tg-i6eq">9</td>
-          <td class="tg-b44r">1</td>
-          <td class="tg-b44r">72</td>
-          <td class="tg-i6eq">19</td>
+          <td class="tg-qvf1">9</td>
+          <td class="tg-0we2">1</td>
+          <td class="tg-606q">72</td>
+          <td class="tg-69zb">19</td>
           <td class="tg-yw4l">&gt;&gt; 101 &lt;&lt;</td>
         </tr>
         <tr>
@@ -468,10 +468,10 @@ Now lets see the formula to fill in Magic Squares based on a 4 x 4 square given 
           <td class="tg-yw4l">&lt;&lt; 43 &gt;&gt;</td>
         </tr>
         <tr>
-          <td class="tg-i6eq">4</td>
-          <td class="tg-b44r">17</td>
-          <td class="tg-b44r">1</td>
-          <td class="tg-i6eq">21</td>
+          <td class="tg-qvf1">4</td>
+          <td class="tg-0we2">17</td>
+          <td class="tg-69zb">1</td>
+          <td class="tg-606q">21</td>
           <td class="tg-yw4l">&gt;&gt; 43 &lt;&lt;</td>
         </tr>
         <tr>
@@ -511,9 +511,9 @@ Now lets see the formula to fill in Magic Squares based on a 4 x 4 square given 
           <td class="tg-yw4l">&lt;&lt; 44 &gt;&gt;</td>
         </tr>
         <tr>
-          <td class="tg-0we2">5</td>
-          <td class="tg-qvf1">21</td>
-          <td class="tg-606q">4</td>
+          <td class="tg-qvf1">5</td>
+          <td class="tg-0we2">21</td>
+          <td class="tg-69zb">4</td>
           <td class="tg-69zb">14</td>
           <td class="tg-yw4l">&lt;&lt; 44 &gt;&gt;</td>
         </tr>
@@ -521,7 +521,7 @@ Now lets see the formula to fill in Magic Squares based on a 4 x 4 square given 
           <td class="tg-i6eq">5</td>
           <td class="tg-b44r">13</td>
           <td class="tg-b44r">6</td>
-          <td class="tg-i6eq">20</td>
+          <td class="tg-606q">20</td>
           <td class="tg-yw4l">&gt;&gt; 44 &lt;&lt;</td>
         </tr>
         <tr>
