@@ -1,27 +1,9 @@
----
-layout: post
-section-type: post
-title: Maths Magic Tricks
-category: mathematics
-tags: [ 'tutorial maths' ]
----
+<link href="grayscale.css" rel="stylesheet">
+  
 
 ## Mathematics Tricks
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 20px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 20px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg .tg-2gbq{background-color:#cbcefb;color:#986536;vertical-align:top}
-.tg .tg-69zb{background-color:#cbcefb;color:#3531ff;vertical-align:top}
-.tg .tg-qvf1{background-color:#ffccc9;color:#009901;vertical-align:top}
-.tg .tg-q47l{background-color:#ffccc9;color:#fe0000;vertical-align:top}
-.tg .tg-hw0o{background-color:#cbcefb;color:#fe0000;vertical-align:top}
-.tg .tg-9tub{background-color:#ffccc9;color:#986536;vertical-align:top}
-.tg .tg-yw4l{vertical-align:top}
-.tg .tg-0we2{background-color:#cbcefb;color:#009901;vertical-align:top}
-.tg .tg-606q{background-color:#ffccc9;color:#3531ff;vertical-align:top}
-</style>
+
 
 I'm going to try my best to explain some maths tricks starting with some pretty simple ideas for which you can try yourself on firends and family. These are not new nor created by me but are centuries old trick.  
 
