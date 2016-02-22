@@ -68,21 +68,21 @@ Assume money is $48
         </tr>
         <tr>
           <th class="tg-yw4l">1</th>
-          <th class="tg-yw4l">15</th>
           <th class="tg-yw4l">14</th>
+          <th class="tg-yw4l">15</th>
           <th class="tg-yw4l">4</th>
         </tr>
         <tr>
-          <td class="tg-yw4l">12</td>
-          <td class="tg-yw4l">6</td>
-          <td class="tg-yw4l">7</td>
           <td class="tg-yw4l">9</td>
+          <td class="tg-yw4l">7</td>
+          <td class="tg-yw4l">6</td>
+          <td class="tg-yw4l">12</td>
         </tr>
         <tr>
-          <td class="tg-yw4l">8</td>
-          <td class="tg-yw4l">10</td>
-          <td class="tg-yw4l">11</td>
           <td class="tg-yw4l">5</td>
+          <td class="tg-yw4l">11</td>
+          <td class="tg-yw4l">10</td>
+          <td class="tg-yw4l">8</td>
         </tr>
         <tr>
           <td class="tg-yw4l">13</td>
