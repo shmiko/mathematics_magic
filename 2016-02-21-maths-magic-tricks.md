@@ -90,6 +90,18 @@ Assume money is $48
           <td class="tg-yw4l">4</td>
           <td class="tg-yw4l">15</td>
         </tr>
+        <tr>
+          <!-- <th class="tg-yw4l" colspan="5">Start at top left with 1</th> -->
+        </tr>
+        <tr>
+          <!-- <th class="tg-yw4l" colspan="5">Filling in the diagonal cells only going right to left</th> -->
+        </tr>
+        <tr>
+          <!-- <th class="tg-yw4l" colspan="5">When done go back to fill the blank cells</th> -->
+        </tr>
+        <tr>
+          <!-- <th class="tg-yw4l" colspan="5">with the missing numbers up to 16 going left to righ.</th> -->
+        </tr>
       </table>
     </th>
     <th></th>
