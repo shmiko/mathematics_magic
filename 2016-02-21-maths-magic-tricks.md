@@ -99,7 +99,7 @@ Assume money is $48
           <th class="tg-yw4l">34</th>
           <th class="tg-yw4l">34</th>
           <th class="tg-yw4l">34</th>
-          <th class="tg-yw4l"></th>
+          <th class="tg-yw4l">34</th>
         </tr>
         
       </table>
@@ -143,11 +143,11 @@ Assume money is $48
           <td class="tg-yw4l">58</td>
           <td class="tg-yw4l">58</td>
           <td class="tg-yw4l">58</td>
-          <th class="tg-yw4l"></th>
+          <th class="tg-yw4l">58</th>
         </tr>
       </table>
     </th>
-    <th>
+    <!-- <th>
       <tr>
           <th class="tg-yw4l" colspan="5">Start at top left with 1</th>
         </tr>
@@ -181,13 +181,18 @@ Assume money is $48
         <tr>
           <th class="tg-yw4l" colspan="5">As will the 4 corners sum to the total.</th>
         </tr>
-      </th>
+      </th> -->
   </tr>
 </table>
-
-
-
-
+Instructions
+Start at top left with 1, or Total - 34. Eg 58 total would require starting at 25 instead adding 24 to each cell.
+Filling in the diagonal cells only going right to left on the top and bottom rows and right to left for the middle rows.
+When done go back to fill the blank cells with the missing numbers up to 16 going left to right on the bottom and top rows and right to left for the middle rows.
+All columns and rows with sum to total given.
+Both diagonal will sum to the total as well.
+The top 3 quads will also as will the bottom 3 quads.
+And the center quad will also sum to the total.
+As will the 4 corners sum to the total.
 
   **B** Starting with a simple formula to fill in Magic Squares based on a 4 x 4 square
 |   |   |   |   |        Construct      |   |   |   |   |
