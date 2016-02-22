@@ -5,7 +5,7 @@
 
 
 
-I'm going to try my best to explain some maths tricks starting with some pretty simple ideas for which you can try yourself on firends and family. These are not new nor created by me but are centuries old trick.  
+I'm going to try my best to explain some maths tricks starting with some pretty simple ideas for which you can try yourself on firends and family. These are not new nor created by me but are centuries old tricks.  
 
 1. How to guess **how much money** someone has in their wallet/purse or pocket.
 2. **Magic Squares** - Simply to difficult.
@@ -14,7 +14,8 @@ I'm going to try my best to explain some maths tricks starting with some pretty 
 5. **Vedic** Maths.
 6. Some fun **Fibonacci** facts and **The Golden Ratio**.
 
-1. How to guess **how much money** someone has on them. Just guessing either dollars only or cents only.
+
+**1.** How to guess **how much money** someone has on them. Just guessing either dollars only or cents only.
 STEPS - Ask person to do these steps
    1.       Ask them to take the amount he they in his pocket or wallet/purse, count it and remember the number.
    2.       Ask them to add 5 to the number.
@@ -46,7 +47,7 @@ Another quick EXAMPLE
 Assume money is $48
 48 + 5 = 53 X 5 = 265 X 2 = 530 + 3 = 533 + 10 = 543, remove 3 = 54 - 6 = **48**!
 
-2. **Magic Squares**   
+**2.** **Magic Squares**   
 Starting with a simple formula to fill in Magic Squares based on a 4 x 4 square given a total.
 
 <table>
@@ -358,7 +359,7 @@ Lets try the formula to fill in Magic Squares based on a 4 x 4 square given 3 ra
 **CAVEAT:** The total must be a multiple of 4, if not it cannot be done.
 
 
-3. How to guess the **day of week** for any given date.
+**3.** How to guess the **day of week** for any given date.
 
 Formulas are:
 **Year Codes** starting with 2014 (A Leap Year Add 1)
@@ -376,7 +377,7 @@ Jan   Feb   Mar Apr May Jun Jul Aug Sep Oct Nov Dec
 EXAMPLE
 
 
-4.  Easy **Square Roots** for any 2 digit Numbers x^2
+**4.**  Easy **Square Roots** for any 2 digit Numbers x^2
 EXAMPLE
 17^2 - Round number up or down to closest 10
 so 17^2 would round up to 20 which is a count of 3.
@@ -420,3 +421,5 @@ Another way to look at the same sequence
 55 X 89 = 89 / 55 = 1.61818
 
 This is showing the **Golden Ration** known as 1.618033
+
+**5.** To Follow soon.
