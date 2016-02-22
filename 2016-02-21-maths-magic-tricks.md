@@ -64,8 +64,8 @@ Another quick EXAMPLE
 Assume money is $48
 48 + 5 = 53 X 5 = 265 X 2 = 530 + 3 = 533 + 10 = 543, remove 3 = 54 - 6 = **48**!
 
-2. **Magic Squares** To Follow
-  **A** Starting with a simple formula to fill in Magic Squares based on a 4 x 4 square.
+2. **Magic Squares**   
+Starting with a simple formula to fill in Magic Squares based on a 4 x 4 square given a total.
 
 <table>
   <tr>
@@ -156,53 +156,225 @@ Assume money is $48
     </th>
   </tr>
 </table>
+
 **Instructions**    
-Start at top left with 1, or Total - 34. Eg 130 total would require starting at 25 instead adding 24 to each cell which is the diffrence from 130 - 34 / 4 for each cell.  
-Filling in the diagonal cells only going right to left on the top and bottom rows and right to left for the middle rows.  
-When done go back to fill the blank cells with the missing numbers up to 16 going left to right on the bottom and top rows and right to left for the middle rows.  
-All columns and rows with sum to total given.  
-Both diagonal will sum to the total as well.  
-The top 3 quads will also as will the bottom 3 quads.  
-And the center quad will also sum to the total.  
-As will the 4 corners sum to the total.  
+ - Start at top left with 1, or Total - 34. Eg 130 total would require starting at 25 instead adding 24 to each cell which is the diffrence from 130 - 34 / 4 for each cell.  
+ - Filling in the diagonal cells only going right to left on the top and bottom rows and right to left for the middle rows.  
+ - When done go back to fill the blank cells with the missing numbers up to 16 going left to right on the bottom and top rows and right to left for the middle rows.  
+ - All columns and rows with sum to total given.  
+ - Both diagonal will sum to the total as well.  
+ - The top 3 quads will also as will the bottom 3 quads.  
+ - And the center quad will also sum to the total.  
+ - As will the 4 corners sum to the total.  
 **CAVEAT:** The total must be a multiple of 4, if not it cannot be done.
 
-  **B** Starting with a simple formula to fill in Magic Squares based on a 4 x 4 square
-|   |   |   |   |        Construct      |   |   |   |   |
-|---|---|---|---|                       |---|---|---|---|
-|   |   |   |   |                       |   |   |   |   |
-|   |   |   |   |                       |   |   |   |   |
-|   |   |   |   |                       |   |   |   |   |
+**Medium Difficulty**  
+Now lets see the formula to fill in Magic Squares based on a 4 x 4 square given someones birthdate.
+<table>
+  <tr>
+    <th>
+      <table class="tg">
+        <tr>
+          <th class="tg-yw4l" colspan="5">Magic Square given a birthdate of 03/09/1970</th>
+        </tr>
+        <tr>
+          <th class="tg-q47l">1</th>
+          <th class="tg-hw0o">15</th>
+          <th class="tg-2gbq">14</th>
+          <th class="tg-9tub">4</th>
+          <th class="tg-yw4l">&gt;&gt; 34 &lt;&lt;</th>
+        </tr>
+        <tr>
+          <td class="tg-hw0o">12</td>
+          <td class="tg-q47l">6</td>
+          <td class="tg-9tub">7</td>
+          <td class="tg-2gbq">9</td>
+          <td class="tg-yw4l">&lt;&lt; 34 &gt;&gt;</td>
+        </tr>
+        <tr>
+          <td class="tg-0we2">8</td>
+          <td class="tg-qvf1">10</td>
+          <td class="tg-606q">11</td>
+          <td class="tg-69zb">5</td>
+          <td class="tg-yw4l">&lt;&lt; 34 &gt;&gt;</td>
+        </tr>
+        <tr>
+          <td class="tg-i6eq">13</td>
+          <td class="tg-b44r">3</td>
+          <td class="tg-b44r">2</td>
+          <td class="tg-i6eq">16</td>
+          <td class="tg-yw4l">&gt;&gt; 34 &lt;&lt;</td>
+        </tr>
+        <tr>
+          <td class="tg-yw4l">34</td>
+          <td class="tg-yw4l">34</td>
+          <td class="tg-yw4l">34</td>
+          <td class="tg-yw4l">34</td>
+          <td class="tg-yw4l">34</td>
+        </tr>
+      </table>
+    </th>
+    <th></th>
+    <th>
+      <table class="tg">
+        <tr>
+          <th class="tg-yw4l" colspan="5">Magic Square given a birthdate of 15/05/2004</th>
+        </tr>
+        <tr>
+          <th class="tg-q47l">25</th>
+          <th class="tg-hw0o">39</th>
+          <th class="tg-2gbq">38</th>
+          <th class="tg-9tub">28</th>
+          <th class="tg-yw4l">&gt;&gt; 130 &lt;&lt;</th>
+        </tr>
+        <tr>
+          <td class="tg-hw0o">36</td>
+          <td class="tg-q47l">30</td>
+          <td class="tg-9tub">31</td>
+          <td class="tg-2gbq">33</td>
+          <td class="tg-yw4l">&lt;&lt; 130 &gt;&gt;</td>
+        </tr>
+        <tr>
+          <td class="tg-0we2">32</td>
+          <td class="tg-qvf1">34</td>
+          <td class="tg-606q">35</td>
+          <td class="tg-69zb">29</td>
+          <td class="tg-yw4l">&lt;&lt; 130 &gt;&gt;</td>
+        </tr>
+        <tr>
+          <td class="tg-qvf1">37</td>
+          <td class="tg-0we2">27</td>
+          <td class="tg-69zb">26</td>
+          <td class="tg-606q">40</td>
+          <td class="tg-yw4l">&gt;&gt; 130 &lt;&lt;</td>
+        </tr>
+        <tr>
+          <td class="tg-yw4l">130</td>
+          <td class="tg-yw4l">130</td>
+          <td class="tg-yw4l">130</td>
+          <td class="tg-yw4l">130</td>
+          <td class="tg-yw4l">130</td>
+        </tr>
+      </table>
+    </th>
+  </tr>
+</table>
 
-  **C** Starting with a simple formula to fill in Magic Squares based on a 4 x 4 square
-|   |   |   |   |        Construct      |   |   |   |   |
-|---|---|---|---|                       |---|---|---|---|
-|   |   |   |   |                       |   |   |   |   |
-|   |   |   |   |                       |   |   |   |   |
-|   |   |   |   |                       |   |   |   |   |
+**Instructions**    
+ - Start at top left with 1, or Total - 34. Eg 130 total would require starting at 25 instead adding 24 to each cell which is the diffrence from 130 - 34 / 4 for each cell.  
+ - Filling in the diagonal cells only going right to left on the top and bottom rows and right to left for the middle rows.  
+ - When done go back to fill the blank cells with the missing numbers up to 16 going left to right on the bottom and top rows and right to left for the middle rows.  
+ - All columns and rows with sum to total given.  
+ - Both diagonal will sum to the total as well.  
+ - The top 3 quads will also as will the bottom 3 quads.  
+ - And the center quad will also sum to the total.  
+ - As will the 4 corners sum to the total.  
+**CAVEAT:** The total must be a multiple of 4, if not it cannot be done.
 
+**Most Difficult**  
+Lets try the formula to fill in Magic Squares based on a 4 x 4 square given 3 random numbers to go into 3 chosen cells.
 
-  **D** Random Numbers in Random Cells
-|   |   |   |   |        Construct      |   |   |   |   |
-|---|---|---|---|                       |---|---|---|---|
-|   |   |   |   |                       |   |   |   |   |
-|   |   |   |   |                       |   |   |   |   |
-|   |   |   |   |                       |   |   |   |   |
+<table>
+  <tr>
+    <th>
+      <table class="tg">
+        <tr>
+          <th class="tg-yw4l" colspan="5">Magic Square given a total of 34</th>
+        </tr>
+        <tr>
+          <th class="tg-q47l">1</th>
+          <th class="tg-hw0o">15</th>
+          <th class="tg-2gbq">14</th>
+          <th class="tg-9tub">4</th>
+          <th class="tg-yw4l">&gt;&gt; 34 &lt;&lt;</th>
+        </tr>
+        <tr>
+          <td class="tg-hw0o">12</td>
+          <td class="tg-q47l">6</td>
+          <td class="tg-9tub">7</td>
+          <td class="tg-2gbq">9</td>
+          <td class="tg-yw4l">&lt;&lt; 34 &gt;&gt;</td>
+        </tr>
+        <tr>
+          <td class="tg-0we2">8</td>
+          <td class="tg-qvf1">10</td>
+          <td class="tg-606q">11</td>
+          <td class="tg-69zb">5</td>
+          <td class="tg-yw4l">&lt;&lt; 34 &gt;&gt;</td>
+        </tr>
+        <tr>
+          <td class="tg-i6eq">13</td>
+          <td class="tg-b44r">3</td>
+          <td class="tg-b44r">2</td>
+          <td class="tg-i6eq">16</td>
+          <td class="tg-yw4l">&gt;&gt; 34 &lt;&lt;</td>
+        </tr>
+        <tr>
+          <td class="tg-yw4l">34</td>
+          <td class="tg-yw4l">34</td>
+          <td class="tg-yw4l">34</td>
+          <td class="tg-yw4l">34</td>
+          <td class="tg-yw4l">34</td>
+        </tr>
+      </table>
+    </th>
+    <th></th>
+    <th>
+      <table class="tg">
+        <tr>
+          <th class="tg-yw4l" colspan="5">Magic Square given a total of 130</th>
+        </tr>
+        <tr>
+          <th class="tg-q47l">25</th>
+          <th class="tg-hw0o">39</th>
+          <th class="tg-2gbq">38</th>
+          <th class="tg-9tub">28</th>
+          <th class="tg-yw4l">&gt;&gt; 130 &lt;&lt;</th>
+        </tr>
+        <tr>
+          <td class="tg-hw0o">36</td>
+          <td class="tg-q47l">30</td>
+          <td class="tg-9tub">31</td>
+          <td class="tg-2gbq">33</td>
+          <td class="tg-yw4l">&lt;&lt; 130 &gt;&gt;</td>
+        </tr>
+        <tr>
+          <td class="tg-0we2">32</td>
+          <td class="tg-qvf1">34</td>
+          <td class="tg-606q">35</td>
+          <td class="tg-69zb">29</td>
+          <td class="tg-yw4l">&lt;&lt; 130 &gt;&gt;</td>
+        </tr>
+        <tr>
+          <td class="tg-qvf1">37</td>
+          <td class="tg-0we2">27</td>
+          <td class="tg-69zb">26</td>
+          <td class="tg-606q">40</td>
+          <td class="tg-yw4l">&gt;&gt; 130 &lt;&lt;</td>
+        </tr>
+        <tr>
+          <td class="tg-yw4l">130</td>
+          <td class="tg-yw4l">130</td>
+          <td class="tg-yw4l">130</td>
+          <td class="tg-yw4l">130</td>
+          <td class="tg-yw4l">130</td>
+        </tr>
+      </table>
+    </th>
+  </tr>
+</table>
 
+**Instructions**    
+ - Start at top left with 1, or Total - 34. Eg 130 total would require starting at 25 instead adding 24 to each cell which is the diffrence from 130 - 34 / 4 for each cell.  
+ - Filling in the diagonal cells only going right to left on the top and bottom rows and right to left for the middle rows.  
+ - When done go back to fill the blank cells with the missing numbers up to 16 going left to right on the bottom and top rows and right to left for the middle rows.  
+ - All columns and rows with sum to total given.  
+ - Both diagonal will sum to the total as well.  
+ - The top 3 quads will also as will the bottom 3 quads.  
+ - And the center quad will also sum to the total.  
+ - As will the 4 corners sum to the total.  
+**CAVEAT:** The total must be a multiple of 4, if not it cannot be done.
 
-  **E** Birthdate Magic Squares
-
-|   |   |   |   |        Construct      |   |   |   |   |
-|---|---|---|---|                       |---|---|---|---|
-|   |   |   |   |                       |   |   |   |   |
-|   |   |   |   |                       |   |   |   |   |
-|   |   |   |   |                       |   |   |   |   |
-
-Name | Lunch order | Spicy      | Owes
-------- | ---------------- | ---------- | ---------:
-Joan  | saag paneer | medium | $11
-Sally  | vindaloo        | mild       | $14
-Erin   | lamb madras | HOT      | $5
 
 3. How to guess the **day of week** for any given date.
 
