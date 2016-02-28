@@ -11,55 +11,60 @@ tags: [ 'maths']
 
 
 1. **Vedic** Maths.  
-2. 
 
 **1.** **Vedic** Maths -   
 
-* **Multiplication**  
-* 
+* **Multiplication**   
+*  
 ** Multiply 2 and 3 Digit Numbers  
 
 Select any two numbers and deduct the rightmost digits, i.e., 'unit digit' from both the numerals. The results derived after subtraction of the numbers from unit digits should be 'Equal'. Vedic maths multiplication concept is applicable for all the digits.
-**Example 1:**
-*** Step 1:
-Let us consider multiplying any two digit numbers, for example 23 x 24.
-*** Step 2:
-Choose the unit digit of both the numerals and deduct it from the given numerals.
-23 - 3 = 20
-24 - 4 = 20
-*** Step 3:
-Now, select any one number (24) and add it with unit digit of another number(3)
-24 + 3 = 27
-*** Step 4:
-Then, multiply the result obtained in step 2 and step 3.
-27 x 20 = 540
-*** Step 5:
-Multiply the unit digit values.
-4 * 3 = 12
-*** Step 6:
-Finally, add values obtained from step 3 and step 4.
-540 + 12 = 552
-23 x 24 = 552
+**Example 1:**  
+- *** Step 1:  
+Let us consider multiplying any two digit numbers, for example 23 x 24.   
 
+- *** Step 2:  
+
+Choose the unit digit of both the numerals and deduct it from the given numerals.   
+
+23 - 3 = 20  
+
+24 - 4 = 20    
+
+- *** Step 3:    
+
+Now, select any one number (24) and add it with unit digit of another number(3)   
+24 + 3 = 27   
+- *** Step 4:    
+Then, multiply the result obtained in step 2 and step 3.   
+27 x 20 = 540   
+- *** Step 5:    
+Multiply the unit digit values.   
+4 * 3 = 12  
+- *** Step 6:    
+Finally, add values obtained from step 3 and step 4.   
+540 + 12 = 552   
+23 x 24 = 552  
+  
 ** Example 2:  
-*** Step 1:
-Let us consider multiplication of three digit numbers 208 x 206.
-*** Step 2:
-Now, deduct the last digit from the respective numerals.
-208 - 8 = 200
-206 - 6 = 200
-*** Step 3:
-Pick any one number and add it with the unit digit of another number.
-208 + 6 = 214
-*** Step 4:
-Now, multiply the result obtained in step 1 and step 2.
-214 * 200 = 42800
-*** Step 5:
-Then, multiply the unit digits of the given numbers.
-8 * 6 = 48
-*** Step 6:
-Add the values obtained in step 4 and step 5.
-42800 + 48 = 42848
+*** Step 1:  
+Let us consider multiplication of three digit numbers 208 x 206.  
+*** Step 2:  
+Now, deduct the last digit from the respective numerals.  
+208 - 8 = 200  
+206 - 6 = 200  
+*** Step 3:  
+Pick any one number and add it with the unit digit of another number.  
+208 + 6 = 214  
+*** Step 4:  
+Now, multiply the result obtained in step 1 and step 2.  
+214 * 200 = 42800  
+*** Step 5:  
+Then, multiply the unit digits of the given numbers.  
+8 * 6 = 48  
+*** Step 6:  
+Add the values obtained in step 4 and step 5.  
+42800 + 48 = 42848  
 208 x 206 = 42848  
 
 ---  
